@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "stylelint-csstree-validator": "^3.0.0",
+    "stylelint-scss": "^5.2.1"
+  }
+}
